@@ -1,6 +1,6 @@
 # compiler-lex
 
-###code in C
+### code in C
 ```c
 
 #include <stdio.h>
