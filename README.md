@@ -1,4 +1,24 @@
+
+
 # compiler-lex
+
+
+
+
+
+
+# C Program to Check Keywords
+
+## Overview
+
+This C program allows the user to input a word and determines whether the entered word is a keyword in the C programming language. It utilizes a function to check for keywords and a main program loop to interactively receive user input.
+
+## Keyword Detection Function
+
+The `isKeyword` function checks if a given word is a C keyword. It takes a word as input and compares it against a predefined list of C keywords.
+
+
+
 
 ### code in C
 ```c
