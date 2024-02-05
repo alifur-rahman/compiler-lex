@@ -19,6 +19,8 @@ gives as input to the Lex Compiler commonly known as Lex to get the output as le
 output in the form of an ‘a.out’ file, and finally, the output file a.out will take the stream
 of character and generates tokens as output.
 
+<img src='https://github.com/alifur-rahman/compiler-lex/blob/main/Screenshot%202024-02-05%20115408.png'>
+
 # C Program to Check Keywords
 
 ## Overview
