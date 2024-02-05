@@ -31,7 +31,11 @@ This C program allows the user to input a word and determines whether the entere
 
 The `isKeyword` function checks if a given word is a C keyword. It takes a word as input and compares it against a predefined list of C keywords.
 
+### Sample input: int
+### Sample output: keyword
+You can consider the following words as keywords for a programming language:
 
+<img src='https://github.com/alifur-rahman/compiler-lex/blob/main/Screenshot%202024-02-05%20115848.png'>
 
 
 ### code in C
