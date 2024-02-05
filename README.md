@@ -3,9 +3,20 @@
 # compiler-lex
 
 
+Lex is a tool or a computer program that generates Lexical Analyzers (converts the stream of
+characters into tokens). The Lex tool itself is a compiler. The Lex compiler takes the input and
+transforms that input into input patterns. It is commonly used with YACC (Yet Another Compiler
+Compiler).
 
+<img src='https://previews.123rf.com/images/nexusplexus/nexusplexus1812/nexusplexus181201166/113368807-fantasy-image-with-space-planets-and-sea-waters.jpg'>
 
+# The function of Lex:
 
+1. In the first step the source code which is in the Lex language having the file name ‘File.l’
+gives as input to the Lex Compiler commonly known as Lex to get the output as lex.yy.c
+2. After that, the output lex.yy.c will be used as input to the C compiler which gives the
+output in the form of an ‘a.out’ file, and finally, the output file a.out will take the stream
+of character and generates tokens as output.
 
 # C Program to Check Keywords
 
