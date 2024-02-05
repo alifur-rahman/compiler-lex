@@ -8,7 +8,8 @@ characters into tokens). The Lex tool itself is a compiler. The Lex compiler tak
 transforms that input into input patterns. It is commonly used with YACC (Yet Another Compiler
 Compiler).
 
-<img src='[https://previews.123rf.com/images/nexusplexus/nexusplexus1812/nexusplexus181201166/113368807-fantasy-image-with-space-planets-and-sea-waters.jpg](https://github.com/alifur-rahman/compiler-lex/blob/main/Screenshot%202024-02-05%20114849.png)'>
+<img src='https://github.com/alifur-rahman/compiler-lex/blob/main/Screenshot%202024-02-05%20114849.png'>
+
 
 # The function of Lex:
 
